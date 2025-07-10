@@ -1,3 +1,4 @@
+<img width="1000" height="523" alt="Image" src="https://github.com/user-attachments/assets/cc378760-8224-4a0e-ba93-fff09c4bf04a" />
 ## Hi there 👋 I'm Jesús Omar García López!
 
 ## 📊 Data Analyst | 🏗️ Architect | 
