@@ -1,6 +1,8 @@
+![Portada para Facebook Marketing Digital Moderno Azul (1)](https://github.com/user-attachments/assets/f9ce0498-7567-4191-8746-14ff05bbf1ea)
 ## Hi there 👋 I'm Jesús Omar García López!
 
 ## 📊 Data Analyst | 🏗️ Architect | 
+
 
 As a Master of Architecture, I've honed a unique analytical mindset, meticulously managing complex projects and transforming raw information into actionable insights. Now, as a Data Analyst, I leverage strong coding skills to build custom solutions, extract patterns, and drive data-driven decision-making. My architectural background provides a distinct advantage in visualizing intricate data structures and understanding the 'why' behind the numbers, applying scientific rigor to generate impactful solutions.
 
