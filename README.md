@@ -1,4 +1,3 @@
-![Portada para Facebook Marketing Digital Moderno Azul (1)](https://github.com/user-attachments/assets/f9ce0498-7567-4191-8746-14ff05bbf1ea)
 ## Hi there 👋 I'm Jesús Omar García López!
 
 ## 📊 Data Analyst | 🏗️ Architect | 
