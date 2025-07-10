@@ -8,6 +8,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 * **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 * **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing, Data Cleaning & Preprocessing
 * **Visualization:** Matplotlib, Seaborn, Tableau (if applicable)
+* **Data Acquisition:** Web APIs (REST)
 * **Tools & Platforms:** Git, GitHub, Render.com, Jupyter Notebooks, Anaconda
 * **Project Management:** Cost Estimation, Budgeting, Project Supervision
 
