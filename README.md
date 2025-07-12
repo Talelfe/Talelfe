@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jesús Omar García López!
 
-## 📊 Data Analyst | 🏗️ Architect | 🤖 IA Generativa 
+## 📊 Data Analyst | 🏗️ Architect | 🤖 Generative IA 
 
 
 As a Master of Architecture, I've honed a unique analytical mindset, meticulously managing complex projects and transforming raw information into actionable insights. Now, as a Data Analyst, I leverage strong coding skills to build custom solutions, extract patterns, and drive data-driven decision-making. My architectural background provides a distinct advantage in visualizing intricate data structures and understanding the 'why' behind the numbers, applying scientific rigor to generate impactful solutions.
@@ -10,9 +10,9 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 * **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing, Data Cleaning & Preprocessing
 * **Visualization:** Matplotlib, Seaborn, Tableau (if applicable)
 * **Data Acquisition:** Web APIs (REST)
-* **Tools & Platforms:** Git, GitHub, Render.com, Jupyter Notebooks, Anaconda, Visual Studio Code
+* **Tools & Platforms:** Git Bash, GitHub, Render.com, Jupyter Notebooks, Anaconda, Visual Studio Code
 * **Project Management:** Cost Estimation, Budgeting, Project Supervision
-* **IA Sofware:** MidJourney 
+* **Generative IA Sofware:** MidJourney 
 
 ### 📫 Let's Connect!
 * LinkedIn: https://www.linkedin.com/in/arq-omargarcia/
