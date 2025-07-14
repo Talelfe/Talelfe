@@ -16,11 +16,6 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 * **Project Management:** Cost Estimation, Budgeting, Project Supervision.
 * **Generative IA Sofware:** MidJourney.
 
-### 📫 Let's Connect!
-
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
-* [![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)
-
 ## 💻 Technologies
 
 ### 🐍 Lenguajes y Entornos de Datos
@@ -52,6 +47,11 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
 </div>
+
+### 📫 Let's Connect!
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
+* [![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)
 
 
 <!--
