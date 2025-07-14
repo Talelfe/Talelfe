@@ -17,8 +17,19 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 * **Generative IA Sofware:** MidJourney.
 
 ### 📫 Let's Connect!
+
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
 * [![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)
+
+### 💻 Technologies
+
+<img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+<img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+
 
 <!--
 **Talelfe/Talelfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
