@@ -15,8 +15,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 * **Generative IA Sofware:** MidJourney 
 
 ### 📫 Let's Connect!
-* LinkedIn: https://www.linkedin.com/in/arq-omargarcia/
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-arq--omargarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arq-omargarcia/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
 * Email: omargarcialo@hotmail.com
   
 <!--
