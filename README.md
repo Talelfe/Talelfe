@@ -21,23 +21,37 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
 * [![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)
 
-### 💻 Technologies
+## 💻 Technologies
 
+### 🐍 Lenguajes y Entornos de Datos
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="jupyter notebook logo" />
+</div>
+
+### 🖥️ IDEs y Entornos de Desarrollo
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo" />
+</div>
+
+### 🚀 Control de Versiones y Plataformas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+</div>
+
+### ⚙️ Herramientas de Línea de Comandos y Sistemas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-<div>
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+</div>
 
 
 <!--
