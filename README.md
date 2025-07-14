@@ -25,7 +25,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
   <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="jupyter notebook logo" />
 </div>
 
-### 🖥️ IDEs y Entornos de Desarrollo
+### 🖥️ IDEs - Entornos de Desarrollo Integrado
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="8" />
