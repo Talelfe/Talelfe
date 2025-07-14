@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Jesús Omar García López!
+## Welcome, I'm  Omar García 👋
 
 ## 📊 Data Analyst | 🏗️ Architect | 🤖 Generative IA 
 
-
+## About Me
 As a Master of Architecture, I've honed a unique analytical mindset, meticulously managing complex projects and transforming raw information into actionable insights. Now, as a Data Analyst, I leverage strong coding skills to build custom solutions, extract patterns, and drive data-driven decision-making. My architectural background provides a distinct advantage in visualizing intricate data structures and understanding the 'why' behind the numbers, applying scientific rigor to generate impactful solutions.
 
 ### 🛠️ Skills
@@ -16,6 +16,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 
 ### 📫 Let's Connect!
 * LinkedIn: https://www.linkedin.com/in/arq-omargarcia/
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-arq--omargarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arq-omargarcia/)
 * Email: omargarcialo@hotmail.com
   
 <!--
