@@ -22,7 +22,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="8" />
-  [![My Skills](https://skillicons.dev/icons?i=sql&perline=1)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="jupyter notebook logo" />
   
@@ -55,6 +55,8 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
 * [![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)
+* [![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/tu_id_de_discord)
+* [![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserverinvite)
 
 
 <!--
