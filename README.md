@@ -61,13 +61,12 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)&nbsp;[![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)&nbsp;[![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/omar_garcialo)
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
-* [![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)
-* [![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/omar_garcialo)
+
 
 
 
 <!--
+
 **Talelfe/Talelfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -80,4 +79,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
+* [![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)
+* [![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/omar_garcialo)
+
 -->
