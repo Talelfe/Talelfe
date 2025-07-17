@@ -14,7 +14,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 * **Data Acquisition:** Web APIs (REST).
 * **Tools & Platforms:** Git Bash, GitHub, Render.com, Jupyter Notebooks, Anaconda, Visual Studio Code.
 * **Project Management:** Cost Estimation, Budgeting, Project Supervision.
-* **Generative IA Sofware:** MidJourney.
+* **Generative IA Software:** MidJourney.
 
 ## 💻 Technologies
 
