@@ -18,7 +18,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 
 ## 💻 Technologies
 
-### 🐍 Lenguajes y Entornos de Datos
+### 🐍 Data Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="8" />
@@ -28,21 +28,21 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
   
 </div>
 
-### 🖥️ IDEs - Entornos de Desarrollo Integrado
+### 🖥️ IDEs - Integrated Development Environments
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo" />
 </div>
 
-### 🚀 Control de Versiones y Plataformas
+### 🚀 Cersion Control & Collaboration Platforms
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
 
-### ⚙️ Herramientas de Línea de Comandos y Sistemas
+### ⚙️ Command-Line Tools & OS
 <div align="left">
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
   <img width="8" />
@@ -51,7 +51,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
 </div>
 
-### 📡 Otras Tecnologías
+### 📡 Additional Technologies
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
   <img width="8" />
