@@ -59,6 +59,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 </div>
 
 ### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)&nbsp;[![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)&nbsp;[![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/omar_garcialo)
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
 * [![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)
