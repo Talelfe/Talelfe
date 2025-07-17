@@ -51,6 +51,12 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
 </div>
 
+### ⚙️ Otras Tecnologías
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+</div>
+
+
 ### 📫 Let's Connect!
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)
