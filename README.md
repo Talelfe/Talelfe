@@ -51,13 +51,12 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
 </div>
 
-### ⚙️ Otras Tecnologías
+### 📡 Otras Tecnologías
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" />
 </div>
-
 
 ### 📫 Let's Connect!
 
