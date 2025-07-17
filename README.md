@@ -22,7 +22,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL logo" />
+  [![My Skills](https://skillicons.dev/icons?i=sql&perline=1)](https://skillicons.dev)
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="jupyter notebook logo" />
   
