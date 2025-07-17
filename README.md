@@ -35,7 +35,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
   <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo" />
 </div>
 
-### 🚀 Cersion Control & Collaboration Platforms
+### 🚀 Version Control & Collaboration Platforms
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="8" />
