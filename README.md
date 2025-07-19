@@ -8,7 +8,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 
 ### 🛠️ Skills
 
-* **Languages:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn), SQL.
+* **Languages:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Math, Astro), SQL.
 * **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing, Data Cleaning & Preprocessing.
 * **Visualization:** Matplotlib, Seaborn, Plotly, Dash, Tableau.
 * **Data Acquisition:** Web APIs (REST).
