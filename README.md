@@ -1,9 +1,7 @@
-<p align="center"> 
-Hello Everyone, I'm Omar García 👋
-                
+<div align="center">
+## Hello Everyone, I'm Omar García 👋
 # 💻 Welcome To My GitHub Universe!
-
-</p>
+</div>
 
 ## 📊 Data Analyst | 🏗️ Architect | 🤖 Generative IA 
 
