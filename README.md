@@ -10,8 +10,6 @@
 
 As a Master of Architecture, I've honed a unique analytical mindset, meticulously managing complex projects and transforming raw information into actionable insights. Now, as a Data Analyst, I leverage strong coding skills to build custom solutions, extract patterns, and drive data-driven decision-making. My architectural background provides a distinct advantage in visualizing intricate data structures and understanding the 'why' behind the numbers, applying scientific rigor to generate impactful solutions.
 
-[![Talelfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talelfe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talelfe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-   
 ### 🛠️ Skills
 
 * **Languages:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Math, Astro), SQL.
@@ -67,6 +65,8 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)&nbsp;[![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)&nbsp;[![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/omar_garcialo)
+
+[![Talelfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talelfe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talelfe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
