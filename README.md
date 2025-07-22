@@ -1,5 +1,4 @@
 ## Hello Everyone, I'm Omar García 👋
----
 # 💻 Welcome To My GitHub Universe! 
 
 ## 📊 Data Analyst | 🏗️ Architect | 🤖 Generative IA 
