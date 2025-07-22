@@ -10,14 +10,12 @@
 
 As a Master of Architecture, I've honed a unique analytical mindset, meticulously managing complex projects and transforming raw information into actionable insights. Now, as a Data Analyst, I leverage strong coding skills to build custom solutions, extract patterns, and drive data-driven decision-making. My architectural background provides a distinct advantage in visualizing intricate data structures and understanding the 'why' behind the numbers, applying scientific rigor to generate impactful solutions.
 
-1. GitHub Stats Card (Tarjetas de Estadísticas de GitHub)
+
 [![Talelfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talelfe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-2. Top Languages Card (Tarjeta de Lenguajes Más Usados)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talelfe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
    
-3. GitHub Streak Stats (Estadísticas de Racha de GitHub)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talelfe&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ### 🛠️ Skills
