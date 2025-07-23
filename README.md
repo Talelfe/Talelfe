@@ -76,7 +76,9 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 
 [![Omar García's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talelfe&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talelfe&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
 ⭐ Thank you for taking the time to view my profile. I am available for exciting collaborations and dedicated to continuous learning and professional growth.
+</div>
 
 
 <!--
