@@ -64,8 +64,8 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 </div>
 
 ### 🌐 Languages
-* **Spanish:** Native 🇲🇽
-* **English:** Professional proficiency (B2) 🇺🇸
+* **Spanish:** Native
+* **English:** Professional proficiency (B2)
 
 ### 📫 Let's Connect!
 * 📍 CDMX, México
