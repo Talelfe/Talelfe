@@ -63,6 +63,10 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" />
 </div>
 
+### 🌐 Languages
+* **Spanish:** Native 🇲🇽
+* **English:** Professional proficiency (B2) 🇺🇸
+
 ### 📫 Let's Connect!
 📍 CDMX, México
 
