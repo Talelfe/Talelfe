@@ -65,11 +65,14 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 
 ### 📫 Let's Connect!
 📍 CDMX, México
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)&nbsp;[![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)&nbsp;[![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/omar_garcialo)
+
+### About my GitHub Profile
 
 [![Omar García's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talelfe&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talelfe&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⭐ Thank you for taking the time to view my profile. I am available for exciting collaborations and dedicated to continuous learning and professional growth.
+⭐ Thank you for taking the time to view my profile. I am available for exciting collaborations and dedicated to continuous learning and professional growth.
 
 
 <!--
