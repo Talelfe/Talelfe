@@ -78,6 +78,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 
 <div align="center">
 ⭐ Thank you for taking the time to view my profile. ⭐
+  
 I am available for exciting collaborations and dedicated to continuous learning and professional growth.
 </div>
 
