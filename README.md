@@ -63,11 +63,11 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" />
 </div>
 
-### 🌐 Languages
+## 🌐 Languages
 * **Spanish:** Native
 * **English:** Professional proficiency (B2)
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 * 📍 CDMX, México
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OmarGarcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/arq-omargarcia/)&nbsp;[![Email](https://img.shields.io/badge/Email-omargarcialo%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:omargarcialo@hotmail.com)&nbsp;[![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/omar_garcialo)
