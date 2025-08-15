@@ -36,8 +36,11 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 ### 🖥️ IDEs - Integrated Development Environments
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo" />
+</div>
+
+### 🖥️ Virtual Environments
+<div align="left">
+<img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo" />
 </div>
 
 ### 🚀 Version Control & Collaboration Platforms
