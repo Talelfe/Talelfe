@@ -38,25 +38,25 @@ I seek to apply this dual expertise in roles that require analytical leadership 
 * **Focus:** Sales funnel analysis and processing A/A/B test results, comparing font design variants to isolate the impact of the change.
 * **Impact:** Provided product insights to the development team, ensuring design decisions were based on evidence of actual user behavior, not just intuition.
   
-[![GitHub Repo](https://img.shields.io/badge/LINK_AL_REPO-ab_test_ecommerce-176BD3?style=flat-square&logo=github&logoColor=white)](https://github.com/Talelfe/mobile-analytics-ab-test)
+[![GitHub Repo](https://img.shields.io/badge/LINK_AL_REPO-ab_test_app_movil-176BD3?style=flat-square&logo=github&logoColor=white)](https://github.com/Talelfe/mobile-analytics-ab-test)
 
 **3. Zuber Analysis: Mobility and Weather in Chicago**
 * **Focus:** Combining competitor data (taxi rides) with external factors (weather) using SQL and Python (Pandas) to test a key hypothesis regarding trip duration.
 * **Impact:** Delivered key market intelligence (geographical demand and influence of weather) enabling the company to make informed strategic decisions on fares and operations before launch.
   
-[![GitHub Repo](https://img.shields.io/badge/LINK_AL_REPO-ab_test_ecommerce-176BD3?style=flat-square&logo=github&logoColor=white)](https://github.com/Talelfe/zuber-analisis-movilidad-chicago)
+[![GitHub Repo](https://img.shields.io/badge/LINK_AL_REPO-zuber_analisis-176BD3?style=flat-square&logo=github&logoColor=white)](https://github.com/Talelfe/zuber-analisis-movilidad-chicago)
 
 **4. Optimization of Marketing Return on Investment (ROI) (Showz)**
 * **Focus:** Investigating customer purchase behavior and rigorously calculating the Time to Return on Investment (ROI) per acquisition channel.
 * **Impact:** Generated insights that allowed for strategic budget reallocation, focusing campaigns on the channels with the highest historical profitability.
   
-[![GitHub Repo](https://img.shields.io/badge/LINK_AL_REPO-ab_test_ecommerce-176BD3?style=flat-square&logo=github&logoColor=white)](https://github.com/Talelfe/marketing-analytics-showz)
+[![GitHub Repo](https://img.shields.io/badge/LINK_AL_REPO-marketing_analytics-176BD3?style=flat-square&logo=github&logoColor=white)](https://github.com/Talelfe/marketing-analytics-showz)
 
 **5. Video Game Sales Analysis: Advertising Strategy (Ice Global)**
 * **Focus:** Exploratory Data Analysis (EDA) using Python to process large volumes of historical data (genres, platforms, reviews) and identify market success patterns.
 * **Impact:** Optimized advertising campaign planning, ensuring marketing resources were proactively invested in the titles with the highest potential for success, maximizing sales.
   
-[![GitHub Repo](https://img.shields.io/badge/LINK_AL_REPO-ab_test_ecommerce-176BD3?style=flat-square&logo=github&logoColor=white)](https://github.com/Talelfe/EDA-Video-Games-)
+[![GitHub Repo](https://img.shields.io/badge/LINK_AL_REPO-eda_video_games-176BD3?style=flat-square&logo=github&logoColor=white)](https://github.com/Talelfe/EDA-Video-Games-)
      
 ## 💻 Technologies
 
