@@ -17,7 +17,7 @@ My background as an Architect provides me with absolute rigor for:
 * **Systemic Vision:** Understanding the full lifecycle of any process or project in an integrated way (from conception to delivery).
 * **Cost Optimization:** My expertise in Budgeting and Unit Prices (Opus) allows me to grasp the profitability and business value that data must generate.
 * **"No Rework":** My focus on Data Quality ensures that analyses are precise and ready for immediate decision-making.
-* 
+  
 ### 🛠️ Technical & Domain Skills
 
 * **Programming & Data Processing:** Python (Pandas, NumPy, SciPy), SQL for data manipulation and extraction.
@@ -27,6 +27,8 @@ My background as an Architect provides me with absolute rigor for:
 
 ## 🚀 Projects You Will Find Here
 Here, I demonstrate end-to-end data analysis workflows—from initial exploration to statistical validation—with a focus on practical applications in process optimization, marketing campaign efficiency, and customer behavior analysis.
+
+
 
 
 
