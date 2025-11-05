@@ -4,22 +4,27 @@
 # 💻 Welcome To My GitHub Universe!
 </div>
 
-## 📊 Data Analyst | 🏗️ Architect | 🤖 Generative IA 
+## 📊 Data Analyst | 🏗️ Analytical Architect | 📈 Process Optimization | 🤖 Generative IA 
 
 ## About Me
+**I am a hybrid professional specializing in the intersection of Project Management and Data Analysis**. My 7+ years of experience in comprehensive project management (Architecture, construction, and costs) provided me with absolute rigor for budget control and delivery.
+Now, I apply this systemic vision to transform the complexity of any business into **analytical clarit**y.
+My value proposition centers on **Operational Efficiency** and the "No Rework" philosophy:
+**Leverage Data:** I utilize SQL and Python to analyze the lifecycle of projects, processes, and marketing strategies.
+**Strategic Insights:** My focus is on Data Quality and generating actionable insights that drive informed decision-making and minimize risk.
+I seek to apply this dual expertise in roles that require analytical leadership and continuous process improvement (Process Analyst, PMO Analyst, or Data Analyst).
 
-As a Master of Architecture, I've honed a unique analytical mindset, meticulously managing complex projects and transforming raw information into actionable insights. Now, as a Data Analyst, I leverage strong coding skills to build custom solutions, extract patterns, and drive data-driven decision-making. My architectural background provides a distinct advantage in visualizing intricate data structures and understanding the 'why' behind the numbers, applying scientific rigor to generate impactful solutions.
-
-### 🛠️ Skills
+### 🛠️ Technical & Domain Skills
 
 * **Languages:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Math, Astro), SQL.
 * **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing, Data Cleaning & Preprocessing.
-* **Visualization:** Matplotlib, Seaborn, Plotly, Dash, Tableau.
+* **Statistical & Testing:** A/B Testing (Design and Analysis), Hypothesis Testing (Significance Testing), Conversion Rate Optimization (CRO).
+* **Visualization & BI:** Matplotlib, Seaborn, Plotly, Dash, Tableau.
 * **Data Acquisition:** Web APIs (REST).
 * **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, Visual Studio Code, Render.com, Anaconda.
 * **Command Line Interface (CLI)** GitBash, Powershell.
-* **Project Management:** Cost Estimation, Budgeting, Project Supervision.
-* **Generative IA Software:** MidJourney.
+* **Project Management:** Cost Estimation, Unit Prices (Opus), Budgeting & Variance Control, Project Supervision, Data Quality & Reconciliation.
+* **Generative IA Software:** MidJourney (Creative/Conceptual application knowledge).
 
 ## 💻 Technologies
 
@@ -68,7 +73,7 @@ As a Master of Architecture, I've honed a unique analytical mindset, meticulousl
 
 ## 🌐 Languages
 * **Spanish:** Native
-* **English:** Professional proficiency (B2)
+* **English:** B2 Intermediate
 
 ## 📫 Let's Connect!
 * 📍 CDMX, México
