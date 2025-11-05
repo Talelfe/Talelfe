@@ -7,26 +7,30 @@
 ## 📊 Data Analyst | 🏗️ Analytical Architect | 📈 Process Optimization | 🤖 Generative IA 
 
 ## About Me
-**I am a hybrid professional specializing in the intersection of Project Management and Data Analysis**. My 7+ years of experience in comprehensive project management (Architecture, construction, and costs) provided me with absolute rigor for budget control and delivery.
-Now, I apply this systemic vision to transform the complexity of any business into **analytical clarit**y.
-My value proposition centers on **Operational Efficiency** and the "No Rework" philosophy:
-**Leverage Data:** I utilize SQL and Python to analyze the lifecycle of projects, processes, and marketing strategies.
-**Strategic Insights:** My focus is on Data Quality and generating actionable insights that drive informed decision-making and minimize risk.
-I seek to apply this dual expertise in roles that require analytical leadership and continuous process improvement (Process Analyst, PMO Analyst, or Data Analyst).
 
+### 🔍 What I Do
+I am a **hybrid professiona**l who combines over 7 years of rigor in **project management and cost control** (Architecture and Construction) with **data analysis**. My focus is on operational efficiency and generating strategic insights.
+I specialize in applying a systemic vision to transform the complexity of processes and projects into **analytical clarity** using **Python and SQ**, with the goal of driving informed decision-making and minimizing risk.
+
+### 💼 My Differentiating Value
+My background as an Architect provides me with absolute rigor for:
+* **Systemic Vision:** Understanding the full lifecycle of any process or project in an integrated way (from conception to delivery).
+* **Cost Optimization:** My expertise in Budgeting and Unit Prices (Opus) allows me to grasp the profitability and business value that data must generate.
+* **"No Rework":** My focus on Data Quality ensures that analyses are precise and ready for immediate decision-making.
+* 
 ### 🛠️ Technical & Domain Skills
 
-* **Languages:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Math, Astro), SQL.
-* **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing, Data Cleaning & Preprocessing.
-* **Statistical & Testing:** A/B Testing (Design and Analysis), Hypothesis Testing (Significance Testing), Conversion Rate Optimization (CRO).
+* **Programming & Data Processing:** Python (Pandas, NumPy, SciPy), SQL for data manipulation and extraction.
+* **Statistical Analysis:** Exploratory Data Analysis (EDA), Hypothesis Testing (A/B Testing), Significance Analysis.
 * **Visualization & BI:** Matplotlib, Seaborn, Plotly, Dash, Tableau.
-* **Data Acquisition:** Web APIs (REST).
-* **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, Visual Studio Code, Render.com, Anaconda.
-* **Command Line Interface (CLI)** GitBash, Powershell.
-* **Project Management:** Cost Estimation, Unit Prices (Opus), Budgeting & Variance Control, Project Supervision, Data Quality & Reconciliation.
-* **Generative IA Software:** MidJourney (Creative/Conceptual application knowledge).
+* **Data Wrangling:** Data cleaning, preprocessing, and transformation, Data Quality and Reconciliation.
 
-## 🚀 Key Projects (Data Analysis)
+## 🚀 Projects You Will Find Here
+Here, I demonstrate end-to-end data analysis workflows—from initial exploration to statistical validation—with a focus on practical applications in process optimization, marketing campaign efficiency, and customer behavior analysis.
+
+
+
+### 🚀 Key Projects (Data Analysis)
 
 **1. A/B Analysis to Drive E-commerce Revenue**
 * **Focus:** Complete A/B testing process, including anomaly handling and Statistical Significance Testing using Python (SciPy).
@@ -143,4 +147,17 @@ Here are some ideas to get you started:
 * [![Discord](https://img.shields.io/badge/Discord-omar_garcialo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/omar_garcialo)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Talelfe&show_icons=true&theme=dark)](https://github.com/Talelfe/github-readme-stats) [![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Talelfe&layout=compact&theme=dark)](https://github.com/Talelfe/github-readme-stats)
+
+### 🛠️ Technical & Domain Skills
+
+* **Languages:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Math, Astro), SQL.
+* **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing, Data Cleaning & Preprocessing.
+* **Statistical & Testing:** A/B Testing (Design and Analysis), Hypothesis Testing (Significance Testing), Conversion Rate Optimization (CRO).
+* **Visualization & BI:** Matplotlib, Seaborn, Plotly, Dash, Tableau.
+* **Data Acquisition:** Web APIs (REST).
+* **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, Visual Studio Code, Render.com, Anaconda.
+* **Command Line Interface (CLI)** GitBash, Powershell.
+* **Project Management:** Cost Estimation, Unit Prices (Opus), Budgeting & Variance Control, Project Supervision, Data Quality & Reconciliation.
+* **Generative IA Software:** MidJourney (Creative/Conceptual application knowledge).
+
 -->
